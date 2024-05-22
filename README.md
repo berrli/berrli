@@ -21,10 +21,10 @@
 - **Software Engineer – Public Sector** (Dec 2018 – Sep 2019)
 - **Midshipman in Royal Navy Reserves** (Sep 2015 – Oct 2017)
 
-## 🧑‍🏫 Example Projects
+## 🧑‍🏫 Selected Projects
 - **Environmental Insights**: An open-source Python package designed to democratize access to air pollution concentration data and analytical tools. This tool enables users to easily retrieve historical air pollution data and employ a Machine Learning model for forecasting potential future conditions.
-- [**Global Air Pollution Data Demo**](https://berrli.github.io/Global-Ambient-air-Pollution-Model-Dashboard/global_AIUK_2024_air_pollution_demo.html)
-- [**UK Air Pollution Data Demo**](https://berrli.github.io/England-Ambient-air-Pollution-Model-Dashboard/england_AIUK_2024_air_pollution_demo.html)
+- **Global Air Pollution Data**: [Data Demo Dashboard](https://berrli.github.io/Global-Ambient-air-Pollution-Model-Dashboard/global_AIUK_2024_air_pollution_demo.html)
+- **UK Air Pollution Data**:[Data Demo Dashboard](https://berrli.github.io/England-Ambient-air-Pollution-Model-Dashboard/england_AIUK_2024_air_pollution_demo.html)
 
 ## 🏅 Fellowships
 - Fellow of Advance HE (Higher Education Academy) - 2023
