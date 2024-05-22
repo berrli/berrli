@@ -11,6 +11,7 @@
   - Dissertation: *Initial Underwater Structure Exploration Planning* - Mark: 88%
 
 ## 💼 Professional Experience
+- **Research Software Engineer - University of Exeter** (2024-Present)
 - **Associate Lecturer – University of Exeter** (Jan 2023 – Oct 2023)
   - **COM1012 Data Science Group Project (Module Lead)**
   - **ECM2434 Group Software Engineering Project (Co-Module Lead)**
