@@ -1,8 +1,6 @@
-# Liam Berrisford
+# 👋 Welcome to My GitHub Profile!
 
-## 👋 Welcome to My GitHub Profile!
-
-### 🎓 Education
+## 🎓 Education
 - **PhD Environmental Intelligence** (2020 - Present, University of Exeter)  
   Thesis: *Operationalising Ambient Air Pollution Estimation
 - **Postgraduate Certificate (PGCert) in Academic Practice** (2023)
@@ -12,7 +10,7 @@
   - 🏆 Netcraft Prize: Awarded to the highest achieving students within the Department of Computer Science
   - Dissertation: *Initial Underwater Structure Exploration Planning* - Mark: 88%
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 - **Associate Lecturer – University of Exeter** (Jan 2023 – Oct 2023)
   - **COM1012 Data Science Group Project (Module Lead)**
   - **ECM2434 Group Software Engineering Project (Co-Module Lead)**
@@ -22,14 +20,14 @@
 - **Software Engineer – Public Sector** (Dec 2018 – Sep 2019)
 - **Midshipman in Royal Navy Reserves** (Sep 2015 – Oct 2017)
 
-### 🧑‍🏫 Research Supervision
-- **Postgraduate Projects**
+## 🧑‍🏫 Research Supervision
+- **Postgraduate**
   - Understanding Future Wildfires Using Cellular Automata and Climate Projections
   - Predictive Modelling of Parking Capacity
-- **Undergraduate Projects**
+- **Undergraduate**
   - Sustainable Fishing Through Marine Species Abundance Prediction
   - Ocean Acidification Prediction for Missing Data
   - Renewable Energy Generation Prediction for Energy Security
 
-### 🏅 Fellowships
+## 🏅 Fellowships
 - Fellow of Advance HE (Higher Education Academy) - 2023
