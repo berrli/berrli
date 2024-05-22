@@ -4,7 +4,7 @@
 
 ### 🎓 Education
 - **PhD Environmental Intelligence** (2020 - Present, University of Exeter)  
-  Thesis: *Operationalising Ambient Air Pollution Estimation for Environmental Intelligence*  
+  Thesis: *Operationalising Ambient Air Pollution Estimation
 - **Postgraduate Certificate (PGCert) in Academic Practice** (2023)
   - Essays: [Integrating Theoretical Computer Science Into the Data Science Curriculum, Integrating the Climate Crisis Into Computer and Data Science Education](https://liamberrisford.info/my-work/pgcert-in-academic-practice-essays/)
 - **Advanced Certificate of Study in Learning and Teaching in Higher Education** (2022)
