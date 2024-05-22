@@ -31,16 +31,5 @@
   - Ocean Acidification Prediction for Missing Data
   - Renewable Energy Generation Prediction for Energy Security
 
-### 📢 Presented Work
-- **Talks**
-  - Operationalising Ambient Air Pollution Estimation (Met Office, 2023)
-  - Artificial and Organic Cities (The Alan Turing Institute, 2022)
-  - A Machine Learning System for Air Quality (Met Office, 2023)
-- **Posters**
-  - Operationalising Ambient Air Pollution Estimation (House of Commons, 2024)
-- **Public Engagement**
-  - [Inhale, Exhale: Environmental Intelligence (British Science Festival, 2023)](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/british-science-festival-exhibition-aims-to-demystify-environmental-intelligence-through-art/)
-  - [Air Pollution and Trees (Pint of Science, 2023)](https://pintofscience.co.uk/event/ai-mazing-technologies)
-
 ### 🏅 Fellowships
 - Fellow of Advance HE (Higher Education Academy) - 2023
