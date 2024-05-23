@@ -17,7 +17,7 @@
 - ⚓: **Midshipman in Royal Navy Reserves** (2015 – 2017)
 
 ## ⚙️ Selected Projects
-- **Environmental Insights**: an open-source Python package that democratizes access to high-resolution air pollution data and predictive analytics, empowering users to analyze and visualize ambient air pollution concentrations globally. [GitHub Repo](https://github.com/berrli/Environmental-Insights)
+- **Environmental Insights**: an open-source Python package that democratizes access to high-resolution air pollution data and predictive analytics, empowering users to analyze and visualize ambient air pollution concentrations globally. [Research Paper](https://arxiv.org/abs/2403.03664) [GitHub Repo](https://github.com/berrli/Environmental-Insights)
 - 🌍: **Global Air Pollution Data**: Extension of the framework developed to estimate air pollution concentration in England to a global level, providing estimation at a 0.25&deg; hourly resolution. [Research Paper](https://arxiv.org/abs/2402.10248) [Data Demo Dashboard](https://berrli.github.io/Global-Ambient-air-Pollution-Model-Dashboard/global_AIUK_2024_air_pollution_demo.html)
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿: **England 1km<sup>2</sup> Hourly Air Pollution Model**: A scalable machine learning framework to estimate ambient air pollution concentrations at a 1km<sup>2</sup> Hourly resolution.
 [Research Paper](https://arxiv.org/abs/2401.08735) [Data Demo Dashboard](https://berrli.github.io/England-Ambient-air-Pollution-Model-Dashboard/england_AIUK_2024_air_pollution_demo.html)
