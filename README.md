@@ -13,7 +13,7 @@
 - 👨‍💻: **Research Software Engineer - University of Exeter** (2024-Present)
 - 👨‍🏫: **Associate Lecturer – University of Exeter** (2023)
 - 👨‍🎓: **Postgraduate Teaching Assistant – University of Exeter** (2020-2022)
-- 🛠️: **Software Engineer – Public Sector** (2018 – 2019)
+- 🛠️: **Software Engineer** (2018 – 2019)
 - ⚓: **Midshipman in Royal Navy Reserves** (2015 – 2017)
 
 ## 🧑‍🏫 Selected Projects
