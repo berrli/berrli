@@ -19,7 +19,8 @@
 ## ⚙️ Selected Projects
 - **Environmental Insights**: An open-source Python package designed to democratize access to air pollution concentration data and analytical tools. This tool enables users to easily retrieve historical air pollution data and employ a Machine Learning model for forecasting potential future conditions.
 - 🌍: **Global Air Pollution Data**: [Data Demo Dashboard](https://berrli.github.io/Global-Ambient-air-Pollution-Model-Dashboard/global_AIUK_2024_air_pollution_demo.html)
-- 🇬🇧: **UK Air Pollution Data**:[Data Demo Dashboard](https://berrli.github.io/England-Ambient-air-Pollution-Model-Dashboard/england_AIUK_2024_air_pollution_demo.html)
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿: **England 1km$^2$ Hourly Air Pollution Model**: A scalable machine learning framework to estimate ambient air pollution concentrations at a 1km$^2$ Hourly resolution.
+[Research Paper](https://arxiv.org/abs/2401.08735) [Data Demo Dashboard](https://berrli.github.io/England-Ambient-air-Pollution-Model-Dashboard/england_AIUK_2024_air_pollution_demo.html)
 
 ## 🏅 Fellowships
 - Fellow of Advance HE (Higher Education Academy) (2023)
