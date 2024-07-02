@@ -5,7 +5,6 @@
   - **Thesis**: Operationalising Ambient Air Pollution Estimation
 - 📗: **Postgraduate Certificate (PGCert) in Academic Practice** (2023, University of Exeter)
   - Essays: [Integrating Theoretical Computer Science Into the Data Science Curriculum, Integrating the Climate Crisis Into Computer and Data Science Education](https://liamberrisford.info/my-work/pgcert-in-academic-practice-essays/)
-- 📕: **Advanced Certificate of Study in Learning and Teaching in Higher Education** (2022, University of Exeter)
 - 💻: **BSc (Hons) Computer Science** (2015-2018, University of Bath)
   - **Dissertation**: [Initial Underwater Structure Exploration Planning](https://liamberrisford.info/software-projects/)
 
