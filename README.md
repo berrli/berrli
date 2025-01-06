@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🎓 Education
-- 📚: **PhD Environmental Intelligence** (2020 - Present, University of Exeter)  
+- 📚: **PhD Environmental Intelligence** (2020 - 2024, University of Exeter)  
   - **Thesis**: [Operationalising Ambient Air Pollution Estimation](https://ore.exeter.ac.uk/repository/handle/10871/137342)
 - 📗: **Postgraduate Certificate (PGCert) in Academic Practice** (2023, University of Exeter)
   - Essays: [Integrating Theoretical Computer Science Into the Data Science Curriculum, Integrating the Climate Crisis Into Computer and Data Science Education](https://liamberrisford.info/my-work/pgcert-in-academic-practice-essays/)
